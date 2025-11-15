@@ -43,3 +43,4 @@ print(record_audio())
 <img width="916" height="135" alt="image" src="https://github.com/user-attachments/assets/14c4bc92-3fbb-49c4-a682-599a3475bce2" />
 
 <H3> Result:</H3>
+Thus, The implementation of speech recognition is executed successfully.
